@@ -3,7 +3,7 @@
 </h1>
 
 <p align="left">
-  Welcome to my page! I'm a backend developer from HK, currently living in Canada.
+  Welcome to my page! I'm a backend developer from Hong Kong, currently living in Toronto, Canada.
 </p>
 
 <h3 align="left">Things I code with:</h3>
